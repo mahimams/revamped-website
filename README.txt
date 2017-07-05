@@ -1,3 +1,4 @@
+Built using Elate template
 
 TITLE: 
 Elate - One Page Responsive Free HTML5 template
